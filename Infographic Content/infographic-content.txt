@@ -1,0 +1,37 @@
+TITLE: Digital Literacy - Learn Smart, Stay Safe, Grow Professionally
+
+1. What is Digital Literacy?
+Digital literacy means using digital tools, platforms, and online information safely, effectively, and responsibly. It is not only about knowing how to use technology, but also about understanding how to communicate, learn, and protect yourself in the digital world.
+
+2. Useful Digital Tools for Students
+- Google Docs - writing and collaboration
+- Google Drive - storing and sharing files
+- GitHub - projects and portfolio building
+- LinkedIn - professional networking
+- Canva - presentations and infographics
+
+3. Safe Internet Practices
+- Use strong and unique passwords
+- Turn on two-factor authentication
+- Do not click unknown links
+- Avoid sharing OTPs or personal details
+- Verify websites before entering payment information
+
+4. Professional Online Presence
+- Use a professional username and email id
+- Keep your profiles clean and updated
+- Highlight your education, skills, and achievements
+- Share useful and respectful content online
+
+5. Email Etiquette
+- Write a clear subject line
+- Use a respectful greeting
+- Be concise and formal
+- Check grammar before sending
+- End with a proper sign-off
+
+BOTTOM LINE:
+A digitally literate student is informed, responsible, professional, and secure online.
+
+NOTE:
+Create the infographic in Canva/Prezi/Google Slides and export or screenshot it as `infographic.png` in this folder.
